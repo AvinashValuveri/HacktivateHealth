@@ -24,7 +24,7 @@ export default function Hero() {
             Hackitivate Health <span className="text-white">Alpha</span>
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl mb-6 sm:mb-8 text-white max-w-2xl leading-relaxed font-mono">
-            Join Northeast Ohio's premier health hackathon where innovation meets medical excellence. 36 hours of coding, creating, and collaborating.
+            Join Northeast Ohio's premier health hackathon where innovation meets medical excellence. 30 hours of coding, creating, and collaborating.
           </p>
           
           <div className="mb-6 sm:mb-8">
