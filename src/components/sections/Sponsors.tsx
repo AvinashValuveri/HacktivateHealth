@@ -14,17 +14,7 @@ export default function Sponsors() {
           />
         </AnimatedSection>
         
-       /* <div className="mt-12">
-          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 items-center justify-items-center">
-            {[...Array(10)].map((_, i) => (
-              <AnimatedSection key={i}>
-                <AnimatedBox className="w-48 h-24 flex items-center justify-center">
-                  <span className="text-[#626262] text-sm">Sponsor Logo</span>
-                </AnimatedBox>
-              </AnimatedSection>
-            ))}
-          </div>
-          */
+          
           <AnimatedSection>
             <div className="mt-16 text-center">
               <a
