@@ -26,8 +26,8 @@ export default function FAQ() {
       answer: "While coding experience is helpful, it's not required. We welcome students of all skill levels and will have workshops and mentors to help you learn."
     },
     {
-      question: "Where will I sleep?",
-      answer: "We'll have designated quiet areas with air mattresses for participants who want to rest. You're also welcome to go home/to your dorm."
+      question: "How does judging work?",
+      answer: "Industry experts and faculty will serve as project judges. Judges are instructed to evaulate projects based on impact, relevance, feasibility, creativity, and technical execution"
     }
   ];
 
@@ -37,7 +37,7 @@ export default function FAQ() {
         <AnimatedSection>
           <SectionHeading
             title="Frequently Asked Questions"
-            subtitle="Everything you need to know about CWRU Health Hackathon"
+            subtitle="Everything you need to know about Hacktivate Health Alpha"
           />
         </AnimatedSection>
         
