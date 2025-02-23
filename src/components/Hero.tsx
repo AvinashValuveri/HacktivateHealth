@@ -21,10 +21,10 @@ export default function Hero() {
       <div className="relative z-20 max-w-7xl mx-auto px-4 py-16 sm:py-24 lg:py-32">
         <div className="animate-fadeIn">
           <h1 className="text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-bold mb-4 sm:mb-6 leading-tight font-mono">
-            CWRU Health Hackathon <span className="text-white">2025</span>
+            Hackitivate Health <span className="text-white">Alpha</span>
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl mb-6 sm:mb-8 text-white max-w-2xl leading-relaxed font-mono">
-            Join CWRU's premier health hackathon where innovation meets medical excellence. 36 hours of coding, creating, and collaborating.
+            Join Northeast Ohio's premier health hackathon where innovation meets medical excellence. 36 hours of coding, creating, and collaborating.
           </p>
           
           <div className="mb-6 sm:mb-8">
@@ -34,15 +34,15 @@ export default function Hero() {
           <div className="flex flex-col sm:flex-row gap-4 mb-8 sm:mb-12 text-base sm:text-lg backdrop-blur-sm bg-white/10 p-4 sm:p-6 rounded-lg font-mono">
             <div className="flex items-center">
               <Calendar className="mr-2 h-5 w-5 sm:h-6 sm:w-6 flex-shrink-0" />
-              <span>March 15-17, 2025</span>
+              <span>April 12-13, 2025</span>
             </div>
             <div className="flex items-center">
               <MapPin className="mr-2 h-5 w-5 sm:h-6 sm:w-6 flex-shrink-0" />
-              <span>Tinkham Veale University Center</span>
+              <span> Sears think[box]</span>
             </div>
             <div className="flex items-center">
               <Trophy className="mr-2 h-5 w-5 sm:h-6 sm:w-6 flex-shrink-0" />
-              <span>$13,000 in prizes</span>
+              <span>$3,000 in prizes</span>
             </div>
           </div>
           
