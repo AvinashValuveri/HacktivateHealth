@@ -25,7 +25,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <Code2 className="h-6 w-6 sm:h-8 sm:w-8 text-white" />
-            <span className="ml-2 text-lg sm:text-xl font-bold text-white font-mono">CWRU Hackathon</span>
+            <span className="ml-2 text-lg sm:text-xl font-bold text-white font-mono">Hacktivate Health</span>
           </div>
           
           <div className="hidden md:block">
