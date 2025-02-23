@@ -6,7 +6,7 @@ import AnimatedBox from '../ui/AnimatedBox';
 export default function Schedule() {
   const schedule = [
     {
-      day: "Saturday, March 15",
+      day: "Saturday, April 12",
       events: [
         { time: "9:00 AM", title: "Check-in Opens", location: "2nd floor" },
         { time: "10:00 AM", title: "Opening Ceremony", location: "Multipurpose Area" },
@@ -20,7 +20,7 @@ export default function Schedule() {
       ]
     },
     {
-      day: "Sunday, March 16",
+      day: "Sunday, April 13",
       events: [
         { time: "10:00 AM", title: "Breakfast and Practice Presentations", location: "Conference Rooms" },
         { time: "12:00 PM", title: "Workshop: Wearables & Mobile Health Tech", location: "2nd Floor" },
