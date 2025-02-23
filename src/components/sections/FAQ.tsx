@@ -11,15 +11,15 @@ export default function FAQ() {
     },
     {
       question: "How much does it cost?",
-      answer: "Nothing! The event is completely free. We'll provide meals, snacks, and swag."
+      answer: "Nothing! The event is completely free. We'll provide meals, snacks, and workshops for free."
     },
     {
       question: "What if I don't have a team?",
-      answer: "No problem! We'll have team formation activities at the start of the event. You can join with up to 4 people total."
+      answer: "No problem! We'll have team formation activities at the start of the event. You can join with up to 5 people total."
     },
     {
       question: "What should I bring?",
-      answer: "Bring your laptop, charger, student ID, and anything else you'll need for 36 hours of hacking. We'll provide the rest!"
+      answer: "Bring your laptop, charger, student ID, and anything else you'll need for 30 hours of hacking. We'll provide the rest!"
     },
     {
       question: "Do I need to know how to code?",
