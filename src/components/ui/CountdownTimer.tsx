@@ -9,7 +9,7 @@ interface TimeLeft {
 
 export default function CountdownTimer() {
   const calculateTimeLeft = (): TimeLeft => {
-    const hackathonDate = new Date('2025-03-15T17:00:00-05:00').getTime();
+    const hackathonDate = new Date('2025-04-12T17:00:00-05:00').getTime();
     const now = new Date().getTime();
     const difference = Math.max(0, hackathonDate - now);
 
