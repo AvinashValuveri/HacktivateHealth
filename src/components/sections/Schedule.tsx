@@ -8,26 +8,25 @@ export default function Schedule() {
     {
       day: "Saturday, March 15",
       events: [
-        { time: "8:00 AM", title: "Check-in Opens", location: "Tinkham Veale University Center" },
-        { time: "9:00 AM", title: "Opening Ceremony", location: "TVUC Ballroom" },
-        { time: "10:00 AM", title: "Team Formation & Healthcare Challenge Presentations", location: "TVUC Commons" },
-        { time: "11:00 AM", title: "Hacking Begins!", location: "All Floors" },
-        { time: "12:00 PM", title: "Lunch & Healthcare Industry Panel", location: "TVUC Ballroom" },
-        { time: "2:00 PM", title: "Workshop: AI in Healthcare", location: "Room 101" },
-        { time: "4:00 PM", title: "Workshop: Medical Data Security", location: "Room 102" },
-        { time: "6:00 PM", title: "Dinner & Networking", location: "TVUC Commons" },
-        { time: "8:00 PM", title: "Mentor Check-ins", location: "All Floors" }
+        { time: "9:00 AM", title: "Check-in Opens", location: "2nd floor" },
+        { time: "10:00 AM", title: "Opening Ceremony", location: "Multipurpose Area" },
+        { time: "11:00 AM", title: "Team Formation & Healthcare Challenge Presentations", location: "Multipurpose Area" },
+        { time: "1:00 PM", title: "Lunch & Healthcare Industry Panel", location: "Presentation Area" },
+        { time: "2:00 PM", title: "Workshop: AI in Healthcare", location: "Multipurpose Area" },
+        { time: "4:00 PM", title: "Workshop: Medical Data Security", location: "2nd floor" },
+        { time: "5:00 PM", title: "Workshop: Health Disparities", location: "2nd floor" },
+        { time: "6:00 PM", title: "Dinner & Networking", location: "Multipurpose Area" },
+        { time: "9:00 PM", title: "Mentor Check-ins", location: "2nd floor" }
       ]
     },
     {
       day: "Sunday, March 16",
       events: [
-        { time: "8:00 AM", title: "Breakfast", location: "TVUC Commons" },
-        { time: "10:00 AM", title: "Practice Presentations", location: "Breakout Rooms" },
-        { time: "12:00 PM", title: "Hacking Ends", location: "All Floors" },
-        { time: "1:00 PM", title: "Project Expo", location: "TVUC Ballroom" },
-        { time: "3:00 PM", title: "Final Presentations", location: "TVUC Ballroom" },
-        { time: "4:30 PM", title: "Awards Ceremony", location: "TVUC Ballroom" }
+        { time: "10:00 AM", title: "Breakfast and Practice Presentations", location: "Conference Rooms" },
+        { time: "12:00 PM", title: "Workshop: Wearables & Mobile Health Tech", location: "2nd Floor" },
+        { time: "1:00 PM", title: "Hacking Ends; Judging Begins", location: "2nd Floor" },
+        { time: "1:30 PM", title: "Project Expo", location: "2nd floor" },
+        { time: "2:00 PM", title: "Final Presentations and Awards Ceremony", location: "Multipurpose Area" },
       ]
     }
   ];
