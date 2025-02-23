@@ -9,7 +9,7 @@ export default function About() {
     {
       icon: <Users className="h-8 w-8 text-[#0a304e]" />,
       title: "Team Building",
-      description: "Form teams of up to 4 students or go solo. Network with 300+ student developers from across the region."
+      description: "Form teams of up to 5 students. Network with participants from across the Northeast Ohio area."
     },
     {
       icon: <Lightbulb className="h-8 w-8 text-[#0a304e]" />,
@@ -34,7 +34,7 @@ export default function About() {
     {
       icon: <Trophy className="h-8 w-8 text-[#0a304e]" />,
       title: "Recognition",
-      description: "Showcase your skills and win prizes from leading healthcare organizations."
+      description: "Showcase your builds and win prizes."
     }
   ];
 
@@ -45,7 +45,7 @@ export default function About() {
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <AnimatedSection>
           <SectionHeading
-            title="About CWRU Health Hackathon"
+            title="About Hacktivate Health"
             subtitle="A weekend of healthcare innovation and problem-solving at Case Western Reserve University"
           />
         </AnimatedSection>
