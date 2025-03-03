@@ -21,7 +21,7 @@ export default function Hero() {
       <div className="relative z-20 max-w-7xl mx-auto px-4 py-16 sm:py-24 lg:py-32">
         <div className="animate-fadeIn">
           <h1 className="text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-bold mb-4 sm:mb-6 leading-tight font-mono">
-            Hackitivate Health <span className="text-white">Alpha</span>
+            Hacktivate Health <span className="text-white"></span>
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl mb-6 sm:mb-8 text-white max-w-2xl leading-relaxed font-mono">
             Join Northeast Ohio's premier health hackathon where innovation meets medical excellence. 30 hours of coding, creating, and collaborating.
