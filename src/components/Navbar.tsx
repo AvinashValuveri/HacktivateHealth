@@ -37,7 +37,7 @@ export default function Navbar() {
               <NavLink href="#sponsors">Sponsors</NavLink>
               <NavLink href="#faq">FAQ</NavLink>
               <a 
-                href="https://external-registration-link.com" 
+                href="https://docs.google.com/forms/d/e/1FAIpQLScx04dK48oyyg3zspvqL3igtNj2v9WrxvJzW48sIc0qxcW5WA/viewform?usp=sharing" 
                 className="bg-white text-black hover:bg-light px-4 py-2 rounded-md text-sm font-medium transition-colors duration-300"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -69,7 +69,7 @@ export default function Navbar() {
             <MobileNavLink href="#sponsors" onClick={handleNavClick}>Sponsors</MobileNavLink>
             <MobileNavLink href="#faq" onClick={handleNavClick}>FAQ</MobileNavLink>
             <a
-              href="https://external-registration-link.com"
+              href="https://docs.google.com/forms/d/e/1FAIpQLScx04dK48oyyg3zspvqL3igtNj2v9WrxvJzW48sIc0qxcW5WA/viewform?usp=sharing"
               className="block w-full text-center bg-white text-black hover:bg-light px-4 py-2 rounded-md text-base font-medium transition-colors duration-300"
               onClick={handleNavClick}
               target="_blank"
