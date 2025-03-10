@@ -96,7 +96,7 @@ export default function Sponsors() {
           <AnimatedSection>
             <div className="mt-16 text-center">
               <a
-                href="#sponsor-contact"
+                href="mailto:avinash@hacktivatehealth.org"
                 className="inline-block bg-black text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-black/90 transition-colors"
               >
                 Become a Sponsor
